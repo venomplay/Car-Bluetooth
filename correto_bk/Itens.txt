@@ -1,0 +1,8 @@
+usei 
+1 arduino nano
+1 modulo bluetooth hc-05
+1 ponte h L298 
+1 Carrinho ja tinha com os motores originais dele 
+
+2 bateria 18650 em paralelo = 7,7v
+3 bateria 18650 em paralelo = 11,4
